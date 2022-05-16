@@ -1,0 +1,11 @@
+public class First {
+    public static void main(String[] args) {
+        System.out.println("Hello world");
+    }
+}
+
+Structure of above program:
+every program in java is in terms  of functions and classes we will learn about them in detail later. 
+Functions are blocks of code dedicated to specific purposes, classes are grous of functions.
+every program starts from main() function and every line is terminated with ";" in java.
+the above program prints out "Hello world" on the console screen. anything between "" is displayed as it is.
