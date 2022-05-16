@@ -25,4 +25,4 @@ an error is encountered whereas compiler doesn't stop and gives all the errors i
 Error: 
 anything that leads to failure of code OR hampers the desired result from the code is called and error. Errors can be syntactical(error in writing code) OR logical(error 
 
-in logic of the programer). 
+in logic of the programmer). 
