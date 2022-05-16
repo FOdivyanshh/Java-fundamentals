@@ -14,3 +14,15 @@ Low level language is basically binary language and is the fastest becausse it i
 Assembly language is the one which contains a few english words but is still very close to binay language and is bit slower than the former.
 High level languages are the ones which contain numerous english words and are most readable for humans, but are the slowest among the three as they require translation.
 for example java, C++, python, Ruby, Kotlin etc.
+
+Compilation:
+To translate thr code writen in hgh level languages, we need a special software called "compiler", this is responsible for "building" the code that we write. 
+the process of converting the HLL code into machine language is called compilation. 
+
+Interpretation: it is also the process of converting HLL code into machine language but it difers in approach with compilation because it stops the process whenever 
+an error is encountered whereas compiler doesn't stop and gives all the errors in one go.
+
+Error: 
+anything that leads to failure of code OR hampers the desired result from the code is called and error. Errors can be syntactical(error in writing code) OR logical(error 
+
+in logic of the programer). 
