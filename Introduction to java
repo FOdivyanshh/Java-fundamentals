@@ -1,0 +1,16 @@
+Basics: 
+Hello and welcome to java fundamentals and DSA documentation, I'm elated that you reached here and hope that you'll find it informative.
+before diving in, let's take a moment to learn basics of programming, we all have used a computer in our lives at some point of time, we tell it to 
+do something and it does but how does it do it?, has someone given it instructions to perform that task? well yes, See computer is a very dumb machine, it can only do 
+something which it is told to do. It doesn't do anything on it's own. following this there are two definitions "a set of instructions givrn to a computer is known as a program"
+and  "the process of telling computer what to do OR writing instructions for it is called programming". now that it's out of the way, I want you to know that computers really 
+don't understand the languages we humans use for communication, it understands only two instructions i.e. 0 and 1 which means "ON" or "OFF". So anything you want to tell
+the computer has to be in the form of 0s and 1s.
+
+Languages:
+Languages are the medium of communication and that holds true for computers as well. The strings of 0s an 1s that they understand is called "Binary Lanuage". 
+the language in which programs are written are called "programming languages". There are three types of programming languages: Low level, assembly level, and high level.
+Low level language is basically binary language and is the fastest becausse it is the language of computers and requiers no translation whatsoever.
+Assembly language is the one which contains a few english words but is still very close to binay language and is bit slower than the former.
+High level languages are the ones which contain numerous english words and are most readable for humans, but are the slowest among the three as they require translation.
+for example java, C++, python, Ruby, Kotlin etc.
